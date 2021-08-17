@@ -1,1 +1,658 @@
-{"unid":111,"crdb":"Porsche_RWB993Evo_1993","awar":false,"grsp":[3.75,2.38,1.72,1.34,1.08,0.88],"fidr":2.0,"nlpr":1.0,"tafr":0.5,"titp":0.5,"trld":0.0,"tssp":0.5,"tssr":0.5,"ttup":0.5,"ttpp":0.0,"appi":0,"orpi":0,"apiid":745,"oriid":745,"apcid":5,"orcid":5,"apnid":-2147483648,"apnzid":-2147483648,"apncf":-2147483648,"apncb":-2147483648,"apfid":-2147483648,"apcns":0,"appns":0,"apnpid":-2147483648,"opnid":-2147483648,"opnzid":-2147483648,"opncf":-2147483648,"opncb":-2147483648,"opfid":-2147483648,"opcns":0,"oppns":0,"opnpid":-2147483648,"aplid":-2147483648,"orlid":-2147483648,"aplzsid":-2147483648,"orlzsid":-2147483648,"apln":"","apcn":["Porsche_RWB993Evo_1993_Wheel1A_3D"],"opcn":"Porsche_RWB993Evo_1993_Wheel1A_3D","bqmt":0.0,"bhmt":0.0,"ditr":0.0,"rcat":0,"rwon":0,"msou":0,"nuub":0,"ccna":0,"upst":[{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[1,1,2,3,0]},{"ulpf":true,"fsg":[2,2,2,3,3]},{"ulpf":true,"fsg":[3,3,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,1,2,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,2,2,3,0]},{"ulpf":true,"fsg":[1,1,2,2,3]},{"ulpf":true,"fsg":[2,2,3,3,3]},{"ulpf":true,"fsg":[3,0,0,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,1,2,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,1,2,3,0]},{"ulpf":true,"fsg":[1,2,2,3,3]},{"ulpf":true,"fsg":[2,2,3,3,3]},{"ulpf":true,"fsg":[2,3,0,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[2,3,0,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[1,2,3,3,3]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,1,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,2,2,3,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[2,2,3,0,0]},{"ulpf":true,"fsg":[2,3,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,1,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,3,0]},{"ulpf":true,"fsg":[1,2,2,3,0]},{"ulpf":true,"fsg":[2,3,0,0,0]},{"ulpf":true,"fsg":[2,3,3,3,3]}]}],"fpin":3,"rpst":[{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0}],"tscs":{"BODYKIT":0,"WHEELS":0,"WING":0,"BOOST_COLOR":0,"HOOD":0,"RIMS":0,"TIRE":0},"fpul":0,"rsup":0,"rpbb":0,"rncu":false,"fcu":false,"pncu":false,"cncu":false,"cppi":714,"cepi":2092,"tdut":11.867,"tdtt":7.682,"ttqm":5.15,"tthm":7.682,"tt60":0.803,"tt1h":1.461,"spqm":329.99,"sphm":358.908,"ctie":"TIER_5","csrc":"IAPSpecial","nupl":{"txt":"","cpf":false},"esup":false,"elcl":0,"gacp":false,"paid":2147483647,"wpid":2147483647,"inid":2147483647,"caid":2147483647,"lzsid":2147483647,"livid":2147483647,"whbn":"","tlad":0.0,"need":false,"cmlv":0,"isra":false}
+{
+ "opnzid": -2147483648,
+ "opncf": -2147483648,
+ "crdb": "Porsche_RWB993Evo_1993",
+ "wpid": 2147483647,
+ "titp": 0.5,
+ "cppi": 714,
+ "upst": [
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      2,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      3,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      2,
+      2,
+      3
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      3,
+      0,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  }
+ ],
+ "tt60": 0.803,
+ "spqm": 329.99,
+ "csrc": "IAPSpecial",
+ "rcat": 0,
+ "orlid": -2147483648,
+ "sphm": 358.908,
+ "bqmt": 0,
+ "tscs": {
+  "WING": 0,
+  "WHEELS": 0,
+  "BODYKIT": 0,
+  "BOOST_COLOR": 0,
+  "RIMS": 0,
+  "HOOD": 0,
+  "TIRE": 0
+ },
+ "rncu": false,
+ "opncb": -2147483648,
+ "apcid": 5,
+ "need": false,
+ "nuub": 0,
+ "tssr": 0.5,
+ "orpi": 0,
+ "rsup": 0,
+ "tssp": 0.5,
+ "orcid": 5,
+ "rpst": [
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  }
+ ],
+ "ttqm": 5.15,
+ "lzsid": 2147483647,
+ "ttup": 0.5,
+ "appns": 0,
+ "tlad": 0,
+ "nupl": {
+  "txt": "",
+  "cpf": false
+ },
+ "inid": 2147483647,
+ "cncu": false,
+ "tthm": 7.682,
+ "apncb": -2147483648,
+ "ttpp": 0,
+ "opcns": 0,
+ "aplzsid": -2147483648,
+ "grsp": [
+  3.75,
+  2.38,
+  1.72,
+  1.34,
+  1.08,
+  0.88
+ ],
+ "opcn": "Porsche_RWB993Evo_1993_Wheel1A_3D",
+ "tdut": 11.867,
+ "ccna": 0,
+ "fidr": 2,
+ "apiid": 745,
+ "msou": 0,
+ "trld": 0,
+ "unid": 111,
+ "bhmt": 0,
+ "pncu": false,
+ "appi": 0,
+ "tdtt": 7.682,
+ "apncf": -2147483648,
+ "awar": false,
+ "rpbb": 0,
+ "tafr": 0.5,
+ "oriid": 745,
+ "opfid": -2147483648,
+ "rwon": 0,
+ "fpul": 0,
+ "apcns": 0,
+ "caid": 2147483647,
+ "livid": 2147483647,
+ "opnid": -2147483648,
+ "fcu": false,
+ "cmlv": 0,
+ "apln": "",
+ "fpin": 3,
+ "tt1h": 1.461,
+ "ctie": "TIER_5",
+ "oppns": 0,
+ "esup": false,
+ "apnpid": -2147483648,
+ "isra": false,
+ "whbn": "",
+ "ditr": 0,
+ "apnid": -2147483648,
+ "apnzid": -2147483648,
+ "nlpr": 1,
+ "aplid": -2147483648,
+ "cepi": 2092,
+ "apcn": ["Porsche_RWB993Evo_1993_Wheel1A_3D"],
+ "gacp": false,
+ "paid": 2147483647,
+ "apfid": -2147483648,
+ "opnpid": -2147483648,
+ "orlzsid": -2147483648,
+ "elcl": 0
+}

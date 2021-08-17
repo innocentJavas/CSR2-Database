@@ -1,1 +1,658 @@
-{"unid":2443,"crdb":"Nissan_GTRNismoCrewRecycled_2017","awar":false,"grsp":[4.06,2.3,1.6,1.25,1.0,0.8],"fidr":3.41,"nlpr":0.87,"tafr":0.5,"titp":0.5,"trld":0.0,"tssp":0.5,"tssr":0.5,"ttup":0.5,"ttpp":0.18,"appi":2,"orpi":2,"apiid":615,"oriid":615,"apcid":18,"orcid":18,"apnid":-2147483648,"apnzid":-2147483648,"apncf":-2147483648,"apncb":-2147483648,"apfid":-2147483648,"apcns":0,"appns":0,"apnpid":-2147483648,"opnid":-2147483648,"opnzid":-2147483648,"opncf":-2147483648,"opncb":-2147483648,"opfid":-2147483648,"opcns":0,"oppns":0,"opnpid":-2147483648,"aplid":-2147483648,"orlid":-2147483648,"aplzsid":-2147483648,"orlzsid":-2147483648,"apln":"","apcn":["Nissan_GTRNismoCrewRecycled_2017_Wheel1A_3D"],"opcn":"Nissan_GTRNismoCrewRecycled_2017_Wheel1A_3D","bqmt":0.0,"bhmt":0.0,"ditr":0.0,"rcat":0,"rwon":0,"msou":0,"nuub":0,"ccna":0,"upst":[{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,1,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,3,3,0]},{"ulpf":true,"fsg":[2,3,0,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[2,3,3,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,1,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[2,0,0,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[2,2,3,3,0]}]}],"fpin":2,"rpst":[{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0}],"tscs":{"BODYKIT":0,"WHEELS":0,"WING":0,"BOOST_COLOR":0,"HOOD":0,"RIMS":0,"TIRE":0},"fpul":0,"rsup":0,"rpbb":0,"rncu":false,"fcu":false,"pncu":false,"cncu":false,"cppi":676,"cepi":666,"tdut":18.132,"tdtt":18.132,"ttqm":11.44,"tthm":18.132,"tt60":3.049,"tt1h":7.501,"spqm":121.514,"sphm":141.953,"ctie":"TIER_4","csrc":"Gacha","nupl":{"txt":"","cpf":false},"esup":false,"elcl":0,"gacp":false,"paid":165,"wpid":2147483647,"inid":615,"caid":18,"lzsid":-2147483648,"livid":-2147483648,"whbn":"Wheel1A_3D","tlad":0.0,"need":false,"cmlv":0,"isra":false}
+{
+ "opnzid": -2147483648,
+ "opncf": -2147483648,
+ "crdb": "Nissan_GTRNismoCrewRecycled_2017",
+ "wpid": 2147483647,
+ "titp": 0.5,
+ "cppi": 676,
+ "upst": [
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  }
+ ],
+ "tt60": 3.049,
+ "spqm": 121.514,
+ "csrc": "Gacha",
+ "rcat": 0,
+ "orlid": -2147483648,
+ "sphm": 141.953,
+ "bqmt": 0,
+ "tscs": {
+  "WING": 0,
+  "WHEELS": 0,
+  "BODYKIT": 0,
+  "BOOST_COLOR": 0,
+  "RIMS": 0,
+  "HOOD": 0,
+  "TIRE": 0
+ },
+ "rncu": false,
+ "opncb": -2147483648,
+ "apcid": 18,
+ "need": false,
+ "nuub": 0,
+ "tssr": 0.5,
+ "orpi": 2,
+ "rsup": 0,
+ "tssp": 0.5,
+ "orcid": 18,
+ "rpst": [
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  }
+ ],
+ "ttqm": 11.44,
+ "lzsid": -2147483648,
+ "ttup": 0.5,
+ "appns": 0,
+ "tlad": 0,
+ "nupl": {
+  "txt": "",
+  "cpf": false
+ },
+ "inid": 615,
+ "cncu": false,
+ "tthm": 18.132,
+ "apncb": -2147483648,
+ "ttpp": 0.18,
+ "opcns": 0,
+ "aplzsid": -2147483648,
+ "grsp": [
+  4.06,
+  2.3,
+  1.6,
+  1.25,
+  1,
+  0.8
+ ],
+ "opcn": "Nissan_GTRNismoCrewRecycled_2017_Wheel1A_3D",
+ "tdut": 18.132,
+ "ccna": 0,
+ "fidr": 3.41,
+ "apiid": 615,
+ "msou": 0,
+ "trld": 0,
+ "unid": 2443,
+ "bhmt": 0,
+ "pncu": false,
+ "appi": 2,
+ "tdtt": 18.132,
+ "apncf": -2147483648,
+ "awar": false,
+ "rpbb": 0,
+ "tafr": 0.5,
+ "oriid": 615,
+ "opfid": -2147483648,
+ "rwon": 0,
+ "fpul": 0,
+ "apcns": 0,
+ "caid": 18,
+ "livid": -2147483648,
+ "opnid": -2147483648,
+ "fcu": false,
+ "cmlv": 0,
+ "apln": "",
+ "fpin": 2,
+ "tt1h": 7.501,
+ "ctie": "TIER_4",
+ "oppns": 0,
+ "esup": false,
+ "apnpid": -2147483648,
+ "isra": false,
+ "whbn": "Wheel1A_3D",
+ "ditr": 0,
+ "apnid": -2147483648,
+ "apnzid": -2147483648,
+ "nlpr": 0.87,
+ "aplid": -2147483648,
+ "cepi": 666,
+ "apcn": ["Nissan_GTRNismoCrewRecycled_2017_Wheel1A_3D"],
+ "gacp": false,
+ "paid": 165,
+ "apfid": -2147483648,
+ "opnpid": -2147483648,
+ "orlzsid": -2147483648,
+ "elcl": 0
+}

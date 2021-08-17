@@ -1,1 +1,658 @@
-{"unid":472,"crdb":"AstonMartin_Vanquish_2014","awar":false,"grsp":[4.17,2.34,1.52,1.14,0.87,0.69],"fidr":4.27,"nlpr":0.84,"tafr":0.5,"titp":0.5,"trld":0.0,"tssp":0.5,"tssr":0.5,"ttup":0.5,"ttpp":0.13,"appi":22,"orpi":22,"apiid":24,"oriid":24,"apcid":5,"orcid":5,"apnid":-2147483648,"apnzid":-2147483648,"apncf":-2147483648,"apncb":-2147483648,"apfid":-2147483648,"apcns":0,"appns":0,"apnpid":-2147483648,"opnid":-2147483648,"opnzid":-2147483648,"opncf":-2147483648,"opncb":-2147483648,"opfid":-2147483648,"opcns":0,"oppns":0,"opnpid":-2147483648,"aplid":-2147483648,"orlid":-2147483648,"aplzsid":-2147483648,"orlzsid":-2147483648,"apln":"","apcn":["AstonMartin_Vanquish_2014_Wheel2A_3D"],"opcn":"AstonMartin_Vanquish_2014_Wheel2A_3D","bqmt":0.0,"bhmt":0.0,"ditr":0.0,"rcat":0,"rwon":0,"msou":0,"nuub":0,"ccna":0,"upst":[{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,1,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[2,0,0,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,3,0]},{"ulpf":true,"fsg":[3,3,0,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,1,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[2,3,0,0,0]},{"ulpf":true,"fsg":[2,3,0,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[2,0,0,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[2,2,2,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[2,3,3,0,0]}]}],"fpin":1,"rpst":[{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0}],"tscs":{"BODYKIT":0,"WHEELS":0,"WING":0,"BOOST_COLOR":0,"HOOD":0,"RIMS":0,"TIRE":0},"fpul":0,"rsup":0,"rpbb":0,"rncu":false,"fcu":false,"pncu":false,"cncu":false,"cppi":672,"cepi":715,"tdut":18.258,"tdtt":18.258,"ttqm":11.395,"tthm":18.258,"tt60":3.07,"tt1h":7.508,"spqm":118.745,"sphm":140.717,"ctie":"TIER_4","csrc":"Gacha","nupl":{"txt":"","cpf":false},"esup":false,"elcl":0,"gacp":false,"paid":77,"wpid":2147483647,"inid":24,"caid":5,"lzsid":-2147483648,"livid":-2147483648,"whbn":"Wheel2A_3D","tlad":0.0,"need":false,"cmlv":0,"isra":false}
+{
+ "opnzid": -2147483648,
+ "opncf": -2147483648,
+ "crdb": "AstonMartin_Vanquish_2014",
+ "wpid": 2147483647,
+ "titp": 0.5,
+ "cppi": 672,
+ "upst": [
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      3,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      2,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  }
+ ],
+ "tt60": 3.07,
+ "spqm": 118.745,
+ "csrc": "Gacha",
+ "rcat": 0,
+ "orlid": -2147483648,
+ "sphm": 140.717,
+ "bqmt": 0,
+ "tscs": {
+  "WING": 0,
+  "WHEELS": 0,
+  "BODYKIT": 0,
+  "BOOST_COLOR": 0,
+  "RIMS": 0,
+  "HOOD": 0,
+  "TIRE": 0
+ },
+ "rncu": false,
+ "opncb": -2147483648,
+ "apcid": 5,
+ "need": false,
+ "nuub": 0,
+ "tssr": 0.5,
+ "orpi": 22,
+ "rsup": 0,
+ "tssp": 0.5,
+ "orcid": 5,
+ "rpst": [
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  }
+ ],
+ "ttqm": 11.395,
+ "lzsid": -2147483648,
+ "ttup": 0.5,
+ "appns": 0,
+ "tlad": 0,
+ "nupl": {
+  "txt": "",
+  "cpf": false
+ },
+ "inid": 24,
+ "cncu": false,
+ "tthm": 18.258,
+ "apncb": -2147483648,
+ "ttpp": 0.13,
+ "opcns": 0,
+ "aplzsid": -2147483648,
+ "grsp": [
+  4.17,
+  2.34,
+  1.52,
+  1.14,
+  0.87,
+  0.69
+ ],
+ "opcn": "AstonMartin_Vanquish_2014_Wheel2A_3D",
+ "tdut": 18.258,
+ "ccna": 0,
+ "fidr": 4.27,
+ "apiid": 24,
+ "msou": 0,
+ "trld": 0,
+ "unid": 472,
+ "bhmt": 0,
+ "pncu": false,
+ "appi": 22,
+ "tdtt": 18.258,
+ "apncf": -2147483648,
+ "awar": false,
+ "rpbb": 0,
+ "tafr": 0.5,
+ "oriid": 24,
+ "opfid": -2147483648,
+ "rwon": 0,
+ "fpul": 0,
+ "apcns": 0,
+ "caid": 5,
+ "livid": -2147483648,
+ "opnid": -2147483648,
+ "fcu": false,
+ "cmlv": 0,
+ "apln": "",
+ "fpin": 1,
+ "tt1h": 7.508,
+ "ctie": "TIER_4",
+ "oppns": 0,
+ "esup": false,
+ "apnpid": -2147483648,
+ "isra": false,
+ "whbn": "Wheel2A_3D",
+ "ditr": 0,
+ "apnid": -2147483648,
+ "apnzid": -2147483648,
+ "nlpr": 0.84,
+ "aplid": -2147483648,
+ "cepi": 715,
+ "apcn": ["AstonMartin_Vanquish_2014_Wheel2A_3D"],
+ "gacp": false,
+ "paid": 77,
+ "apfid": -2147483648,
+ "opnpid": -2147483648,
+ "orlzsid": -2147483648,
+ "elcl": 0
+}

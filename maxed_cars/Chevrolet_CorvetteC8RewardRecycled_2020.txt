@@ -1,1 +1,660 @@
-{"unid":980,"crdb":"Chevrolet_CorvetteC8RewardRecycled_2020","awar":false,"grsp":[2.905,1.759,1.22,0.878,0.653,0.508,0.397,0.329],"fidr":5.0,"nlpr":0.9,"tafr":0.5,"titp":0.5,"trld":0.0,"tssp":0.5,"tssr":0.5,"ttup":0.5,"ttpp":0.0,"appi":10,"orpi":10,"apiid":223,"oriid":223,"apcid":20,"orcid":20,"apnid":-2147483648,"apnzid":-2147483648,"apncf":-2147483648,"apncb":-2147483648,"apfid":-2147483648,"apcns":0,"appns":0,"apnpid":-2147483648,"opnid":-2147483648,"opnzid":-2147483648,"opncf":-2147483648,"opncb":-2147483648,"opfid":-2147483648,"opcns":0,"oppns":0,"opnpid":-2147483648,"aplid":555,"orlid":555,"aplzsid":0,"orlzsid":0,"apln":"","apcn":["Chevrolet_CorvetteC8RewardRecycled_2020_Wheel2A_3D"],"opcn":"Chevrolet_CorvetteC8RewardRecycled_2020_Wheel2A_3D","bqmt":0.0,"bhmt":0.0,"ditr":0.0,"rcat":0,"rwon":0,"msou":0,"nuub":0,"ccna":0,"upst":[{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":false,"fsg":[1,1,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,2,2,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[2,3,3,3,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,2,2,0,0]},{"ulpf":false,"fsg":[1,2,3,3,0]},{"ulpf":false,"fsg":[2,3,0,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,2,2,0,0]},{"ulpf":false,"fsg":[1,2,3,0,0]},{"ulpf":false,"fsg":[1,2,3,0,0]},{"ulpf":false,"fsg":[2,3,3,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":false,"fsg":[1,1,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[2,2,0,0,0]},{"ulpf":false,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,2,3,0,0]},{"ulpf":false,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,2,2,0,0]},{"ulpf":false,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,0,0,0,0]},{"ulpf":false,"fsg":[1,2,3,0,0]},{"ulpf":false,"fsg":[1,2,2,0,0]},{"ulpf":false,"fsg":[1,2,0,0,0]},{"ulpf":false,"fsg":[2,2,3,3,0]}]}],"fpin":12,"rpst":[{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0}],"tscs":{"BODYKIT":0,"WHEELS":0,"WING":0,"BOOST_COLOR":0,"HOOD":0,"RIMS":0,"TIRE":0},"fpul":1,"rsup":1,"rpbb":3,"rncu":false,"fcu":false,"pncu":false,"cncu":false,"cppi":674,"cepi":1754,"tdut":18.212,"tdtt":18.212,"ttqm":11.836,"tthm":18.212,"tt60":3.996,"tt1h":7.656,"spqm":127.564,"sphm":151.389,"ctie":"TIER_4","csrc":"Gacha","nupl":{"txt":"","cpf":false},"esup":false,"elcl":0,"gacp":false,"paid":1485,"wpid":2147483647,"inid":223,"caid":20,"lzsid":0,"livid":555,"whbn":"Wheel2A_3D","tlad":0.0,"need":false,"cmlv":50,"isra":false}
+{
+ "opnzid": -2147483648,
+ "opncf": -2147483648,
+ "crdb": "Chevrolet_CorvetteC8RewardRecycled_2020",
+ "wpid": 2147483647,
+ "titp": 0.5,
+ "cppi": 674,
+ "upst": [
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      3,
+      3,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  }
+ ],
+ "tt60": 3.996,
+ "spqm": 127.564,
+ "csrc": "Gacha",
+ "rcat": 0,
+ "orlid": 555,
+ "sphm": 151.389,
+ "bqmt": 0,
+ "tscs": {
+  "WING": 0,
+  "WHEELS": 0,
+  "BODYKIT": 0,
+  "BOOST_COLOR": 0,
+  "RIMS": 0,
+  "HOOD": 0,
+  "TIRE": 0
+ },
+ "rncu": false,
+ "opncb": -2147483648,
+ "apcid": 20,
+ "need": false,
+ "nuub": 0,
+ "tssr": 0.5,
+ "orpi": 10,
+ "rsup": 1,
+ "tssp": 0.5,
+ "orcid": 20,
+ "rpst": [
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  }
+ ],
+ "ttqm": 11.836,
+ "lzsid": 0,
+ "ttup": 0.5,
+ "appns": 0,
+ "tlad": 0,
+ "nupl": {
+  "txt": "",
+  "cpf": false
+ },
+ "inid": 223,
+ "cncu": false,
+ "tthm": 18.212,
+ "apncb": -2147483648,
+ "ttpp": 0,
+ "opcns": 0,
+ "aplzsid": 0,
+ "grsp": [
+  2.905,
+  1.759,
+  1.22,
+  0.878,
+  0.653,
+  0.508,
+  0.397,
+  0.329
+ ],
+ "opcn": "Chevrolet_CorvetteC8RewardRecycled_2020_Wheel2A_3D",
+ "tdut": 18.212,
+ "ccna": 0,
+ "fidr": 5,
+ "apiid": 223,
+ "msou": 0,
+ "trld": 0,
+ "unid": 980,
+ "bhmt": 0,
+ "pncu": false,
+ "appi": 10,
+ "tdtt": 18.212,
+ "apncf": -2147483648,
+ "awar": false,
+ "rpbb": 3,
+ "tafr": 0.5,
+ "oriid": 223,
+ "opfid": -2147483648,
+ "rwon": 0,
+ "fpul": 1,
+ "apcns": 0,
+ "caid": 20,
+ "livid": 555,
+ "opnid": -2147483648,
+ "fcu": false,
+ "cmlv": 50,
+ "apln": "",
+ "fpin": 12,
+ "tt1h": 7.656,
+ "ctie": "TIER_4",
+ "oppns": 0,
+ "esup": false,
+ "apnpid": -2147483648,
+ "isra": false,
+ "whbn": "Wheel2A_3D",
+ "ditr": 0,
+ "apnid": -2147483648,
+ "apnzid": -2147483648,
+ "nlpr": 0.9,
+ "aplid": 555,
+ "cepi": 1754,
+ "apcn": ["Chevrolet_CorvetteC8RewardRecycled_2020_Wheel2A_3D"],
+ "gacp": false,
+ "paid": 1485,
+ "apfid": -2147483648,
+ "opnpid": -2147483648,
+ "orlzsid": 0,
+ "elcl": 0
+}

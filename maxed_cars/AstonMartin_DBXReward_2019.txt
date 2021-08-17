@@ -1,1 +1,661 @@
-{"unid":294,"crdb":"AstonMartin_DBXReward_2019","awar":false,"grsp":[5.35,3.24,2.25,1.63,1.21,1.0,0.86,0.71,0.6],"fidr":3.08,"nlpr":0.87,"tafr":0.5,"titp":0.5,"trld":0.0,"tssp":0.5,"tssr":0.5,"ttup":0.5,"ttpp":0.0,"appi":0,"orpi":0,"apiid":676,"oriid":676,"apcid":5,"orcid":5,"apnid":-2147483648,"apnzid":-2147483648,"apncf":-2147483648,"apncb":-2147483648,"apfid":-2147483648,"apcns":0,"appns":0,"apnpid":-2147483648,"opnid":-2147483648,"opnzid":-2147483648,"opncf":-2147483648,"opncb":-2147483648,"opfid":-2147483648,"opcns":0,"oppns":0,"opnpid":-2147483648,"aplid":-2147483648,"orlid":-2147483648,"aplzsid":-2147483648,"orlzsid":-2147483648,"apln":"","apcn":["AstonMartin_DBXReward_2019_Wheel1A_3D"],"opcn":"AstonMartin_DBXReward_2019_Wheel1A_3D","bqmt":0.0,"bhmt":0.0,"ditr":0.0,"rcat":0,"rwon":0,"msou":0,"nuub":0,"ccna":0,"upst":[{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[2,3,0,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]},{"ulpf":true,"fsg":[2,3,0,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[2,3,3,0,0]},{"ulpf":true,"fsg":[2,3,3,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[2,2,0,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[2,2,2,0,0]},{"ulpf":true,"fsg":[2,3,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[2,3,0,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]}]}],"fpin":3,"rpst":[{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0}],"tscs":{"BODYKIT":0,"WHEELS":0,"WING":0,"BOOST_COLOR":0,"HOOD":0,"RIMS":0,"TIRE":0},"fpul":0,"rsup":0,"rpbb":0,"rncu":false,"fcu":false,"pncu":false,"cncu":false,"cppi":672,"cepi":1058,"tdut":13.737,"tdtt":11.62,"ttqm":7.319,"tthm":11.62,"tt60":1.342,"tt1h":2.416,"spqm":195.604,"sphm":221.287,"ctie":"TIER_4","csrc":"Gacha","nupl":{"txt":"","cpf":false},"esup":false,"elcl":0,"gacp":false,"paid":2147483647,"wpid":2147483647,"inid":2147483647,"caid":2147483647,"lzsid":2147483647,"livid":2147483647,"whbn":"","tlad":0.0,"need":false,"cmlv":0,"isra":false}
+{
+ "opnzid": -2147483648,
+ "opncf": -2147483648,
+ "crdb": "AstonMartin_DBXReward_2019",
+ "wpid": 2147483647,
+ "titp": 0.5,
+ "cppi": 672,
+ "upst": [
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  }
+ ],
+ "tt60": 1.342,
+ "spqm": 195.604,
+ "csrc": "Gacha",
+ "rcat": 0,
+ "orlid": -2147483648,
+ "sphm": 221.287,
+ "bqmt": 0,
+ "tscs": {
+  "WING": 0,
+  "WHEELS": 0,
+  "BODYKIT": 0,
+  "BOOST_COLOR": 0,
+  "RIMS": 0,
+  "HOOD": 0,
+  "TIRE": 0
+ },
+ "rncu": false,
+ "opncb": -2147483648,
+ "apcid": 5,
+ "need": false,
+ "nuub": 0,
+ "tssr": 0.5,
+ "orpi": 0,
+ "rsup": 0,
+ "tssp": 0.5,
+ "orcid": 5,
+ "rpst": [
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  }
+ ],
+ "ttqm": 7.319,
+ "lzsid": 2147483647,
+ "ttup": 0.5,
+ "appns": 0,
+ "tlad": 0,
+ "nupl": {
+  "txt": "",
+  "cpf": false
+ },
+ "inid": 2147483647,
+ "cncu": false,
+ "tthm": 11.62,
+ "apncb": -2147483648,
+ "ttpp": 0,
+ "opcns": 0,
+ "aplzsid": -2147483648,
+ "grsp": [
+  5.35,
+  3.24,
+  2.25,
+  1.63,
+  1.21,
+  1,
+  0.86,
+  0.71,
+  0.6
+ ],
+ "opcn": "AstonMartin_DBXReward_2019_Wheel1A_3D",
+ "tdut": 13.737,
+ "ccna": 0,
+ "fidr": 3.08,
+ "apiid": 676,
+ "msou": 0,
+ "trld": 0,
+ "unid": 294,
+ "bhmt": 0,
+ "pncu": false,
+ "appi": 0,
+ "tdtt": 11.62,
+ "apncf": -2147483648,
+ "awar": false,
+ "rpbb": 0,
+ "tafr": 0.5,
+ "oriid": 676,
+ "opfid": -2147483648,
+ "rwon": 0,
+ "fpul": 0,
+ "apcns": 0,
+ "caid": 2147483647,
+ "livid": 2147483647,
+ "opnid": -2147483648,
+ "fcu": false,
+ "cmlv": 0,
+ "apln": "",
+ "fpin": 3,
+ "tt1h": 2.416,
+ "ctie": "TIER_4",
+ "oppns": 0,
+ "esup": false,
+ "apnpid": -2147483648,
+ "isra": false,
+ "whbn": "",
+ "ditr": 0,
+ "apnid": -2147483648,
+ "apnzid": -2147483648,
+ "nlpr": 0.87,
+ "aplid": -2147483648,
+ "cepi": 1058,
+ "apcn": ["AstonMartin_DBXReward_2019_Wheel1A_3D"],
+ "gacp": false,
+ "paid": 2147483647,
+ "apfid": -2147483648,
+ "opnpid": -2147483648,
+ "orlzsid": -2147483648,
+ "elcl": 0
+}

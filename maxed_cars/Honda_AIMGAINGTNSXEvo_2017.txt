@@ -1,1 +1,661 @@
-{"unid":3228,"crdb":"Honda_AIMGAINGTNSXEvo_2017","awar":false,"grsp":[3.838,2.433,1.778,1.428,1.211,1.038,0.881,0.747,0.634],"fidr":2.85,"nlpr":1.0,"tafr":0.5,"titp":0.5,"trld":0.0,"tssp":0.5,"tssr":0.5,"ttup":0.5,"ttpp":0.0,"appi":0,"orpi":0,"apiid":649,"oriid":649,"apcid":3,"orcid":3,"apnid":-2147483648,"apnzid":-2147483648,"apncf":-2147483648,"apncb":-2147483648,"apfid":-2147483648,"apcns":0,"appns":0,"apnpid":-2147483648,"opnid":-2147483648,"opnzid":-2147483648,"opncf":-2147483648,"opncb":-2147483648,"opfid":-2147483648,"opcns":0,"oppns":0,"opnpid":-2147483648,"aplid":-2147483648,"orlid":-2147483648,"aplzsid":-2147483648,"orlzsid":-2147483648,"apln":"","apcn":["Honda_AIMGAINGTNSXEvo_2017_Wheel1A_3D"],"opcn":"Honda_AIMGAINGTNSXEvo_2017_Wheel1A_3D","bqmt":0.0,"bhmt":0.0,"ditr":0.0,"rcat":0,"rwon":0,"msou":0,"nuub":0,"ccna":0,"upst":[{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[2,3,0,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]},{"ulpf":true,"fsg":[2,3,0,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[2,3,3,0,0]},{"ulpf":true,"fsg":[2,3,3,0,0]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[2,2,0,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[2,2,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,2,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[2,2,2,0,0]},{"ulpf":true,"fsg":[2,3,3,3,3]}]},{"lvlo":6,"lvlf":6,"lvls":[{"ulpf":true,"fsg":[0,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,0,0,0,0]},{"ulpf":true,"fsg":[1,2,3,0,0]},{"ulpf":true,"fsg":[1,2,2,0,0]},{"ulpf":true,"fsg":[2,3,0,0,0]},{"ulpf":true,"fsg":[2,3,3,3,0]}]}],"fpin":3,"rpst":[{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0},{"rvlo":0,"rvlf":0}],"tscs":{"BODYKIT":0,"WHEELS":0,"WING":0,"BOOST_COLOR":0,"HOOD":0,"RIMS":0,"TIRE":0},"fpul":0,"rsup":0,"rpbb":0,"rncu":false,"fcu":false,"pncu":false,"cncu":false,"cppi":674,"cepi":1690,"tdut":18.115,"tdtt":18.115,"ttqm":11.602,"tthm":18.115,"tt60":3.474,"tt1h":7.618,"spqm":125.845,"sphm":150.127,"ctie":"TIER_4","csrc":"IAPSpecial","nupl":{"txt":"","cpf":false},"esup":false,"elcl":0,"gacp":false,"paid":712,"wpid":2147483647,"inid":649,"caid":3,"lzsid":-2147483648,"livid":-2147483648,"whbn":"Wheel1A_3D","tlad":0.0,"need":false,"cmlv":0,"isra":false}
+{
+ "opnzid": -2147483648,
+ "opncf": -2147483648,
+ "crdb": "Honda_AIMGAINGTNSXEvo_2017",
+ "wpid": 2147483647,
+ "titp": 0.5,
+ "cppi": 674,
+ "upst": [
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": true,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  }
+ ],
+ "tt60": 3.474,
+ "spqm": 125.845,
+ "csrc": "IAPSpecial",
+ "rcat": 0,
+ "orlid": -2147483648,
+ "sphm": 150.127,
+ "bqmt": 0,
+ "tscs": {
+  "WING": 0,
+  "WHEELS": 0,
+  "BODYKIT": 0,
+  "BOOST_COLOR": 0,
+  "RIMS": 0,
+  "HOOD": 0,
+  "TIRE": 0
+ },
+ "rncu": false,
+ "opncb": -2147483648,
+ "apcid": 3,
+ "need": false,
+ "nuub": 0,
+ "tssr": 0.5,
+ "orpi": 0,
+ "rsup": 0,
+ "tssp": 0.5,
+ "orcid": 3,
+ "rpst": [
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  }
+ ],
+ "ttqm": 11.602,
+ "lzsid": -2147483648,
+ "ttup": 0.5,
+ "appns": 0,
+ "tlad": 0,
+ "nupl": {
+  "txt": "",
+  "cpf": false
+ },
+ "inid": 649,
+ "cncu": false,
+ "tthm": 18.115,
+ "apncb": -2147483648,
+ "ttpp": 0,
+ "opcns": 0,
+ "aplzsid": -2147483648,
+ "grsp": [
+  3.838,
+  2.433,
+  1.778,
+  1.428,
+  1.211,
+  1.038,
+  0.881,
+  0.747,
+  0.634
+ ],
+ "opcn": "Honda_AIMGAINGTNSXEvo_2017_Wheel1A_3D",
+ "tdut": 18.115,
+ "ccna": 0,
+ "fidr": 2.85,
+ "apiid": 649,
+ "msou": 0,
+ "trld": 0,
+ "unid": 3228,
+ "bhmt": 0,
+ "pncu": false,
+ "appi": 0,
+ "tdtt": 18.115,
+ "apncf": -2147483648,
+ "awar": false,
+ "rpbb": 0,
+ "tafr": 0.5,
+ "oriid": 649,
+ "opfid": -2147483648,
+ "rwon": 0,
+ "fpul": 0,
+ "apcns": 0,
+ "caid": 3,
+ "livid": -2147483648,
+ "opnid": -2147483648,
+ "fcu": false,
+ "cmlv": 0,
+ "apln": "",
+ "fpin": 3,
+ "tt1h": 7.618,
+ "ctie": "TIER_4",
+ "oppns": 0,
+ "esup": false,
+ "apnpid": -2147483648,
+ "isra": false,
+ "whbn": "Wheel1A_3D",
+ "ditr": 0,
+ "apnid": -2147483648,
+ "apnzid": -2147483648,
+ "nlpr": 1,
+ "aplid": -2147483648,
+ "cepi": 1690,
+ "apcn": ["Honda_AIMGAINGTNSXEvo_2017_Wheel1A_3D"],
+ "gacp": false,
+ "paid": 712,
+ "apfid": -2147483648,
+ "opnpid": -2147483648,
+ "orlzsid": -2147483648,
+ "elcl": 0
+}
