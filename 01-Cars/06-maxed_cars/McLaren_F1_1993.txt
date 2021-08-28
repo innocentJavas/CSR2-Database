@@ -1,0 +1,658 @@
+{
+ "opnzid": -2147483648,
+ "opncf": -2147483648,
+ "crdb": "McLaren_F1_1993",
+ "wpid": 2147483647,
+ "titp": 0.5,
+ "cppi": 714,
+ "upst": [
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      2,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      3,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      2,
+      2,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      2,
+      2,
+      3
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      3,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      2,
+      2,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      3,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      2,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  },
+  {
+   "lvls": [
+    {
+     "ulpf": true,
+     "fsg": [
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      1,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      1,
+      2,
+      2,
+      3,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      3,
+      3,
+      0,
+      0
+     ]
+    },
+    {
+     "ulpf": false,
+     "fsg": [
+      2,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ],
+   "lvlf": 6,
+   "lvlo": 6
+  }
+ ],
+ "tt60": 0.214,
+ "spqm": 290.214,
+ "csrc": "IAPSpecial",
+ "rcat": 0,
+ "orlid": -2147483648,
+ "sphm": 287.815,
+ "bqmt": 0,
+ "tscs": {
+  "WING": 0,
+  "WHEELS": 0,
+  "BODYKIT": 0,
+  "BOOST_COLOR": 0,
+  "RIMS": 0,
+  "HOOD": 0,
+  "TIRE": 0
+ },
+ "rncu": false,
+ "opncb": -2147483648,
+ "apcid": 138,
+ "need": false,
+ "nuub": 0,
+ "tssr": 0.5,
+ "orpi": 0,
+ "rsup": 0,
+ "tssp": 0.5,
+ "orcid": 138,
+ "rpst": [
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  },
+  {
+   "rvlo": 0,
+   "rvlf": 0
+  }
+ ],
+ "ttqm": 3.792,
+ "lzsid": 2147483647,
+ "ttup": 0.5,
+ "appns": 0,
+ "tlad": 0,
+ "nupl": {
+  "txt": "",
+  "cpf": false
+ },
+ "inid": 2147483647,
+ "cncu": false,
+ "tthm": 6.917,
+ "apncb": -2147483648,
+ "ttpp": 0,
+ "opcns": 0,
+ "aplzsid": -2147483648,
+ "grsp": [
+  3.23,
+  2.19,
+  1.71,
+  1.39,
+  1.16,
+  0.93
+ ],
+ "opcn": "McLaren_F1_1993_Wheel1A_3D",
+ "tdut": 11.864,
+ "ccna": 0,
+ "fidr": 2,
+ "apiid": 882,
+ "msou": 0,
+ "trld": 0,
+ "unid": 171,
+ "bhmt": 0,
+ "pncu": false,
+ "appi": 0,
+ "tdtt": 6.917,
+ "apncf": -2147483648,
+ "awar": false,
+ "rpbb": 0,
+ "tafr": 0.5,
+ "oriid": 882,
+ "opfid": -2147483648,
+ "rwon": 0,
+ "fpul": 1,
+ "apcns": 0,
+ "caid": 2147483647,
+ "livid": 2147483647,
+ "opnid": -2147483648,
+ "fcu": false,
+ "cmlv": 50,
+ "apln": "",
+ "fpin": 16,
+ "tt1h": 0.434,
+ "ctie": "TIER_5",
+ "oppns": 0,
+ "esup": false,
+ "apnpid": -2147483648,
+ "isra": false,
+ "whbn": "",
+ "ditr": 0,
+ "apnid": -2147483648,
+ "apnzid": -2147483648,
+ "nlpr": 1,
+ "aplid": -2147483648,
+ "cepi": 2474,
+ "apcn": ["McLaren_F1_1993_Wheel1A_3D"],
+ "gacp": false,
+ "paid": 2147483647,
+ "apfid": -2147483648,
+ "opnpid": -2147483648,
+ "orlzsid": -2147483648,
+ "elcl": 0
+}
